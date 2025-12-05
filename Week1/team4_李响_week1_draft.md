@@ -44,6 +44,8 @@
 - 选择时区shanghai
 - 设置用户账号以及计算机名以及密码，点击继续，重启。
 <img src="images/finish.jpg" alt="Ubuntu 安装完成" style="display:block; margin:12px auto; width:300px; height:auto;" />
+
+ <img src="images/enter.jpg" alt="Ubuntu 双系统启动" style="display:block; margin:12px auto; width:600px; height:auto;" />
 安装完成的Ubuntu系统的桌面：
 <img src="images/Desktop" alt="Ubuntu 桌面截图" style="display:block; margin:12px auto; width:600px; height:auto;" />
 
