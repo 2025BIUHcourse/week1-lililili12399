@@ -16,14 +16,12 @@
 [Ubuntu官网](https://unbuntu.com/download/desktop)
 #### 2）制作Ubuntu启动盘
 - **Win32 DiskImager**
- <img src="images/rufs.png" alt="Rufus software interface" style="float:right; margin-left:12px; margin-right:380px; margin-top:4px; width:200px; height:300px;" />
  “映像文件”选择前面下载的Ubuntu20.04 
- ![Ubuntu 20.04 download page showing the Ubuntu circle logo at the top, a main heading reading Ubuntu 20.04 LTS, and a prominent orange download button labeled Download; the page has a white background with a top navigation bar and an informational, neutral tone.](images/download.png){: width="200" height="50"}
  “设备”选择U盘的盘符，写入。
-这里在制作启动盘时遇到了几个问题[遇到问题1](#1制作ubuntu启动盘时)
+ 这里在制作启动盘时遇到了几个问题[遇到问题1](#1制作ubuntu启动盘时)
 
  - **rufs**(我最后选用rufus来进行Ubuntu启动盘的制作)
-
+<img src="images/rufs.png" alt="Rufus software interface" style="float:right; margin-left:12px; margin-right:380px; margin-top:4px; width:200px; height:300px;" />
     - 下载并安装Rufus
     - 选择U盘和Ubuntu ISO文件
     - 分区选择GPT，文件系统选NTFS
