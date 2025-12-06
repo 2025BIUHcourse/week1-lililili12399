@@ -21,7 +21,7 @@
  这里在制作启动盘时遇到了几个问题[遇到问题1](#1制作ubuntu启动盘时)
 
  - **rufs**(我最后选用rufus来进行Ubuntu启动盘的制作)
-![Rufus 操作页面](images/rufs.png){width=200 height=300}
+![Rufus 操作页面](images/rufs.png)
     - 下载并安装Rufus
     - 选择U盘和Ubuntu ISO文件
     - 分区选择GPT，文件系统选NTFS
