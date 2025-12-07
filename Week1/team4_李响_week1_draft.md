@@ -79,7 +79,7 @@ i后面是deb的包名
 在终端里输入code打开VSCode，安装C++插件
 
 #### 在VSCode中运行C++的Hello World
-<img src="images/VS_p" alt="Hello World 运行" style="display:block; margin:12px auto; width:600px; height:auto;" />
+<img src="images/VS_P" alt="Hello World 运行" style="display:block; margin:12px auto; width:600px; height:auto;" />
 
 ### 3. Git基础操作
 #### 1）Github账号（我的Github账号是lililili12399）
