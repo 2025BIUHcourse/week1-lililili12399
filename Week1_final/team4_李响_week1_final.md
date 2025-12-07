@@ -43,9 +43,9 @@
 - 设置用户账号以及计算机名以及密码，点击继续，重启。
 ![Ubuntu安装完成](images/finish.jpg)
 
-![Ubuntu双系统](images/enter.jpeg)
+![Ubuntu双系统](images/enter.jpg)
 安装完成的Ubuntu系统的桌面：
-![Ubuntuz桌面](images/Desktop.png)
+![Ubuntuz桌面](images/Desktop)
 
 
 ### 4）系统时间同步
